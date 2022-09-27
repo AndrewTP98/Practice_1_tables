@@ -1,0 +1,34 @@
+header{
+    background-color: rgb(211,105,31); 
+    text-align: center; 
+    padding:1px 20px; 
+    margin: 2px 0px;
+}
+footer{
+    background-color: rgb(211,105,31); 
+    text-align: center;
+    margin: 2px 0px;
+}
+.nav-content{
+    text-align:center; 
+    width: 10%; 
+    margin: 2px 2px 2px 0px; 
+    background-color: rgb(144,238,144);
+}
+.container-content{
+    display: flex; 
+    margin: 2px 0px;
+}
+.principal-content{
+    width: 70%; 
+    padding: 20px;  
+    background-color: rgb(156,244,215); 
+    margin: 2px;
+}
+.aside-content{
+    text-align: left; 
+    padding: 15px; 
+    width: 20%; 
+    margin: 2px 0px 2px 2px; 
+    background-color: rgb(174,216,230);
+}
